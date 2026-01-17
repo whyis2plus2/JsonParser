@@ -1,0 +1,8 @@
+{
+	"field": true,
+	"field2": null,
+	"num": 1,
+	"foo \ud83c\udf3f": {
+		"bar": [10.1,1,"string"]
+	}
+}

@@ -1,0 +1,16 @@
+-IC:\Users\whyis2plus2\scoop\apps\gcc\current\x86_64-w64-mingw32\include
+-IC:\Users\whyis2plus2\scoop\apps\gcc\13.2.0\lib\gcc\x86_64-w64-mingw32\13.2.0\include
+-IC:\Users\whyis2plus2\scoop\apps\gcc\current\include\c++\13.2.0
+-IC:\Users\whyis2plus2\scoop\apps\gcc\current\include\c++\13.2.0\x86_64-w64-mingw32
+-Wno-newline-eof
+-Wno-empty-translation-unit
+-fgnuc-version=13.2.0
+-Wformat=2
+-Wno-format-nonliteral
+
+-std=c99
+-pedantic-errors
+-Wall
+-Wextra
+-Wformat=2
+-DJSON_IMPLEMENTATION=1
