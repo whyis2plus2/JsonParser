@@ -8,7 +8,7 @@ CFLAGS += -Wall -Wextra -Wunused -Wformat=2
 
 LDFLAGS +=
 
-SRC_DIR := ./src
+SRC_DIR := ./test
 OUT_DIR := ./build
 
 SRC := $(wildcard $(SRC_DIR)/*.c)
