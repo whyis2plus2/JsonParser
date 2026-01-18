@@ -4,4 +4,6 @@ build/*
 *.json
 *.o
 
+compile_flags.txt
+
 !test.json
